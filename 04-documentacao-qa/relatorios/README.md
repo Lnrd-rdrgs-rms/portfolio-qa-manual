@@ -1,3 +1,3 @@
 # Relatórios de referência
 
-Adicione aqui relatórios finais que possam ser compartilhados publicamente. Verifique se não contêm credenciais, dados pessoais ou informações confidenciais.
+Área destinada a modelos de relatórios finais que possam ser compartilhados publicamente. Sempre verificar se não contêm credenciais, dados pessoais ou informações confidenciais.

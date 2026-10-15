@@ -1,6 +1,6 @@
 # Fundamentos de testes de software
 
-Use esta página para registrar definições e exemplos próprios sobre:
+Página a ser utilizada para registrar definições e exemplos próprios sobre:
 
 - Verificação e validação
 - Testes funcionais e não funcionais

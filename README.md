@@ -6,7 +6,7 @@ Este repositório reúne projetos práticos, documentação de testes, estudos e
 
 ## Sobre mim
 
-Tenho formação em Ciências Contábeis e pós-graduação em Planejamento de Sistemas. Estou desenvolvendo competências em QA por meio de estudos e projetos práticos, com foco inicial em testes funcionais manuais e documentação.
+Tenho formação em Ciências Contábeis e pós-graduação em Planejamento Trinutário. Estou cursando Análise e desenvolvimento de Sistemas, e buscando desenvolver competências em QA por meio de estudos e projetos práticos, com foco inicial em testes funcionais manuais e documentação.
 
 ## Projetos
 
